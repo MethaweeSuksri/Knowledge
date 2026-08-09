@@ -1,5 +1,5 @@
 > For i heard, A smart man know what he doesn't know.
-> But hey, but what do i know.
+> But hey, what do i know.
 
 # Here's what i DO know
 
