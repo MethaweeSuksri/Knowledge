@@ -1,0 +1,43 @@
+/* =========================================
+   Knowledge Callouts
+   ========================================= */
+
+/* UNCLEAR */
+.callout[data-callout="unclear"] {
+    --callout-color: 156, 39, 176 !important;
+    --callout-icon: lucide-circle-help !important;
+
+    background-color: rgba(156, 39, 176, 0.12) !important;
+    border-left: 4px solid rgb(156, 39, 176) !important;
+}
+
+.callout[data-callout="unclear"] .callout-title {
+    color: rgb(186, 104, 200) !important;
+}
+
+
+/* CLARIFICATION */
+.callout[data-callout="clarification"] {
+    --callout-color: 33, 150, 243 !important;
+    --callout-icon: lucide-info !important;
+
+    background-color: rgba(33, 150, 243, 0.12) !important;
+    border-left: 4px solid rgb(33, 150, 243) !important;
+}
+
+.callout[data-callout="clarification"] .callout-title {
+    color: rgb(66, 165, 245) !important;
+}
+
+/* TODO */
+.callout[data-callout="todo"] {
+    --callout-color: 255, 193, 7 !important;
+    --callout-icon: lucide-circle-check !important;
+
+    background-color: rgba(255, 193, 7, 0.12) !important;
+    border-left: 4px solid rgb(255, 193, 7) !important;
+}
+
+.callout[data-callout="todo"] .callout-title {
+    color: rgb(255, 193, 7) !important;
+}
