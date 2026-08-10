@@ -15,6 +15,8 @@
 
 > Organize knowledge into a topic → subtopic tree.
 
+Define by skill, not roles. 
+
 ---
 ## Link
 
@@ -48,6 +50,7 @@
 | `status` | How developed is the note?              | `start` · `partial` · `finish`             |
 | `recall` | How well can the knowledge be recalled? | `untested` · `weak` · `partial` · `strong` |
 | `source` | Where did the knowledge come from?      | `pdf` · `youtube` · `website`              |
+
 
 ---
 # Callout
