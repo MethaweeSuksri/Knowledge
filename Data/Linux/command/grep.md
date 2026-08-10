@@ -1,10 +1,10 @@
 ---
-status: Start
+status: partial
 Recall: untested
 source: manpage
 ---
  
-#linux #command #shell 
+#linuxCLI 
 
 ---
 # Sypnosis
@@ -14,14 +14,15 @@ source: manpage
 
 # What does grep do
 
-	search for pattern in file -> print Matched line
+search for pattern in file -> print Matched line
+
+grep with no  argumenat seach the entire direcrtory
 ## subheader 2
 
 ### subheader 3
 
 body
 
-[[Link]] is for linking to subtopic
 
 
 > [!unclear]

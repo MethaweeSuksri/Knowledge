@@ -1,10 +1,10 @@
 ---
-status: finish
+status: done
 Recall: useable
 source:
 ---
 
-#linux  #command #shell
+#linuxCLI 
 
 ---
 

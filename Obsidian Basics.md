@@ -1,3 +1,9 @@
+---
+status: done
+Recall: None
+source: me
+---
+
 #meta
 
 > A quick cheat sheet for the most common Obsidian Markdown syntax, links, tags, and shortcuts.

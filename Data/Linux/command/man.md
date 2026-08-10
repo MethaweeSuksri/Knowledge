@@ -1,10 +1,10 @@
 ---
-status: start
+status: done
 Recall: None
 source:
 ---
 
-#linux #manpage #command
+ #linuxCLI #documentation
 
 ---
 # What does man do
@@ -40,22 +40,3 @@ can come in full or shorten form
 > **Why**: The same name can refer to different things, and therefore can have multiple man-page sections.
 > **Keep in mind** : Is this the right section?
 > **Do** : use **man -k** to search for man page, then read description
-
-
-> [!todo]
-> 
-> **Condition:** Knowledge is incomplete and requires further work.
-> 
-> **Include:** Missing · Why · Action · Done
- 
-
----
-# Quiz
-
-### Q1 :
-### Q2 :
-### Q3 :
-
-answer 1:
-answer 2:
-answer 3:

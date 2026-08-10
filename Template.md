@@ -1,5 +1,5 @@
 ---
-status: "True"
+status: start
 Recall: None
 source:
 ---
@@ -16,7 +16,6 @@ source:
 
 body
 
-[[Link]] is for linking to subtopic
 
 > [!tip]
 > 

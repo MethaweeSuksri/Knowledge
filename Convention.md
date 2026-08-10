@@ -1,3 +1,8 @@
+---
+status: done
+Recall: None
+source: me
+---
 #meta
 
 | Feature       | Use it for                       | Ask                                                |
@@ -47,7 +52,7 @@ Define by skill, not roles.
 
 | Property | Purpose                                 | Values                                     |
 | -------- | --------------------------------------- | ------------------------------------------ |
-| `status` | How developed is the note?              | `start` · `partial` · `finish`             |
+| `status` | How developed is the note?              | `start` · `partial` · `done`               |
 | `recall` | How well can the knowledge be recalled? | `untested` · `weak` · `partial` · `strong` |
 | `source` | Where did the knowledge come from?      | `pdf` · `youtube` · `website`              |
 
