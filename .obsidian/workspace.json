@@ -6,7 +6,6 @@
       {
         "id": "a58fedff43c16e90",
         "type": "tabs",
-        "dimension": 60.01727115716753,
         "children": [
           {
             "id": "b97718b4865a6382",
@@ -14,33 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Linux/shell/pipe.md",
+                "file": "Data/Linux/filesystem/hardlink.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pipe"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c1631a48ec361b5e",
-        "type": "tabs",
-        "dimension": 39.98272884283247,
-        "children": [
-          {
-            "id": "7f05892cb4cdc436",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data/Linux/process/standard stream.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "standard stream"
+              "title": "hardlink"
             }
           }
         ]
@@ -77,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#linux",
+                "query": "tag:#linuxCLI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,39 +191,41 @@
   },
   "active": "b97718b4865a6382",
   "lastOpenFiles": [
+    "Data/Linux/filesystem/symlink.md",
+    "Data/Linux/filesystem/hardlink.md",
+    "Data/Linux/command/stty.md",
+    "Data/Linux/shell/shell configuration file.md",
+    "Data/Linux/filesystem",
+    "Data/Linux/shell/trap.md",
+    "Data/Linux/tmux/tmux.md",
+    "Data/Linux/ssh/ssh-copy-id.md",
+    "Data/Linux/ssh/scp.md",
+    "Data/Linux/tmux",
+    "Data/Linux/ssh 1/ssh.md",
+    "Data/Linux/ssh 1/ssh-keygen.md",
+    "Data/Linux/ssh 1/ssh-copy-id.md",
+    "Data/Linux/ssh 1",
+    "Data/Linux/ssh/Untitled.md",
+    "Data/Linux/ssh/ssh-keygen.md",
+    "Data/Linux/ssh/ssh.md",
+    "Data/Linux/shell/jobs.md",
+    "Data/Linux/ssh",
+    "Data/Linux/command/Untitled.md",
+    "Data/Linux/shell/globbing.md",
+    "Data/Linux/process/signal.md",
+    "Data/Linux/command/sed.md",
     "Data/Linux/process/standard stream.md",
     "Data/Linux/shell/pipe.md",
-    "Data/Linux/shell/globbing.md",
     "Data/Linux/shell/Untitled.md",
     "Template.md",
     "Data/Linux/process",
     "Data/Linux/Untitled.md",
     "README.md",
     "Data/Linux/command/awk.md",
-    "Data/Linux/command/find.md",
-    "Data/Linux/command/help.md",
-    "Data/Linux/command/grep.md",
-    "Data/Linux/Linux Entry Note.md",
-    "Data/Linux/command/sed.md",
-    "Data/Linux/command/Untitled.md",
-    "Data/Linux/command/man.md",
     "Data/Regular Expression",
     "Data/Linux/shell",
     "Data/git",
-    "Untitled.md",
-    "Data/Linux/Command/Untitled.md",
-    "Obsidian Basics.md",
-    "Convention.md",
-    "Data/Linux/command/less.md",
-    "Link.md",
-    "Data/Linux/How to.md",
     "Data/Linux/command",
-    "Data/Linux/Linux.md",
-    "Data/Linux/Linux.md",
-    "Untitled.base",
-    "Data/Linux",
-    "Data/Untitled.md",
-    "Data",
-    "Note Name.md"
+    "Untitled.base"
   ]
 }

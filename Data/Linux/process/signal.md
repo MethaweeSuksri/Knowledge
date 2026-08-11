@@ -8,6 +8,7 @@ source:
 
 ---
 
+see man 7 signal
 # subheader 1
 
 ## subheader 2
