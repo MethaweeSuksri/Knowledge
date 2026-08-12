@@ -10,7 +10,7 @@ source:
 
 # What does less do
 
-	 display content in terminal
+display content in terminal
 # All key i need 
 
 | Key             | Meaning                               |
