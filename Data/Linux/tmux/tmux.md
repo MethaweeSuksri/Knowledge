@@ -8,5 +8,5 @@ source: trust me bro
 
 ---
 
-# What globbing is
+# What tmuxs is
 

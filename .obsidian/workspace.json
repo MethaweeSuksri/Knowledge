@@ -47,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Linux/process/standard stream.md",
+                "file": "Data/Linux/tmux/tmux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "standard stream"
+              "title": "tmux"
             }
           }
         ]
@@ -225,6 +225,7 @@
   },
   "active": "15a691cc9a70c521",
   "lastOpenFiles": [
+    "Data/Linux/process/standard stream.md",
     "Convention.md",
     "Data/Javascript/ExpressJS/ExpressJS.md",
     "Data/MongoDB/What is MongoDB.md",
@@ -256,7 +257,6 @@
     "Data/Debugging/reverse debugging.md",
     "Data/Debugging/reverse debugging.md",
     "Data/Linux/command/rr.md",
-    "Data/Linux/command/find.md",
     "Data/Debugging",
     "Data/Linux/filesystem",
     "Data/Linux/tmux",
