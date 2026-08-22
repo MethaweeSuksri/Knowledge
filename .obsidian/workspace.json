@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a58fedff43c16e90",
+        "id": "321c99d45c629d00",
         "type": "tabs",
         "children": [
           {
-            "id": "b97718b4865a6382",
+            "id": "15a691cc9a70c521",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,37 +22,44 @@
             }
           },
           {
-            "id": "9e7be11e27549179",
+            "id": "87ea4ee8f4c86384",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Javascript/ES Module.md",
+                "file": "Data/Linux/command/grep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ES Module"
+              "title": "grep"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "570f50a2bcb60fcf",
+        "id": "87097fdae9271337",
         "type": "tabs",
         "children": [
           {
-            "id": "15a691cc9a70c521",
+            "id": "4481ae2869e12049",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data/Linux/tmux/tmux.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "80a70af99cbe3bee",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "tmux"
+              "title": "New tab"
             }
           }
         ]
@@ -223,10 +230,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15a691cc9a70c521",
+  "active": "87ea4ee8f4c86384",
   "lastOpenFiles": [
-    "Data/Linux/process/standard stream.md",
     "Convention.md",
+    "Obsidian Basics.md",
+    "Data/Linux/command/grep.md",
+    "Data/Linux/tmux/tmux.md",
+    "Data/Linux/process/standard stream.md",
     "Data/Javascript/ExpressJS/ExpressJS.md",
     "Data/MongoDB/What is MongoDB.md",
     "Data/Javascript/ExpressJS",
@@ -244,7 +254,6 @@
     "Data/Linux/command/less.md",
     "Data/docker/docker.md",
     "Data/Javascript",
-    "Data/Linux/tmux/tmux.md",
     "Data/nodeJS/Untitled",
     "Data/Javascript/nodeJS",
     "Data/Linux/command/awk.md",
@@ -255,8 +264,6 @@
     "Data/Debugging/Heisenbug.md",
     "Data/Debugging/Heisenbug.md",
     "Data/Debugging/reverse debugging.md",
-    "Data/Debugging/reverse debugging.md",
-    "Data/Linux/command/rr.md",
     "Data/Debugging",
     "Data/Linux/filesystem",
     "Data/Linux/tmux",
